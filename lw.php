@@ -1,5 +1,5 @@
 <?php
-$txt1 = "Learn PHP";
+$txt1 = "Learn Devops";
 $txt2 = "W3Schools.com";
 $x = 5;
 $y = 4;
